@@ -1,0 +1,263 @@
+_id: req_b34e9209244e44369b5e5c01bf72585c
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1657091243211
+created: 1646123796959
+url: http://102.64.60.26:1337/api/instalacoes
+name: Get Equipa
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"data": [
+    		{
+    			"id": 24,
+    			"attributes": {
+    				"dataPrevista": "2022-06-03T08:00:00.000Z",
+    				"dataChegada": "2022-05-24T00:00:00.000Z",
+    				"tempoAtraso": "00:22:00",
+    				"dataSaida": "2022-05-12T00:00:00.000Z",
+    				"tempoInstalacao": "00:04:00",
+    				"status": "Cancelado",
+    				"caboUtp": "3498",
+    				"signal": "489589",
+    				"cinr": "34984",
+    				"mastro": "45",
+    				"obsTecnico": "Alguma coisa aí",
+    				"obsClient": "Outra coisa aí",
+    				"createdAt": "2022-05-30T20:22:09.383Z",
+    				"updatedAt": "2022-06-29T14:42:48.983Z",
+    				"publishedAt": "2022-05-30T20:22:09.346Z",
+    				"ipAntena": "28934.4948",
+    				"coordenadas": "89384.58",
+    				"formaPagamento": "TPA",
+    				"client": {
+    					"data": {
+    						"id": 17,
+    						"attributes": {
+    							"fullName": "Filipe Andrade",
+    							"phone": "987654321",
+    							"email": "filipeandrade@gmail.com",
+    							"referencia": null,
+    							"status": null,
+    							"zonaReferencia": "Mutamba",
+    							"pontoReferencia": "Ao Lado do Prédio da Sonangol",
+    							"createdAt": "2022-05-30T20:22:09.273Z",
+    							"updatedAt": "2022-05-30T20:23:18.114Z",
+    							"publishedAt": "2022-05-30T20:22:09.267Z"
+    						}
+    					}
+    				},
+    				"pop": {
+    					"data": {
+    						"id": 1,
+    						"attributes": {
+    							"Nome": "TTR",
+    							"Geolocalizacao": "-8.9227264,13.3431296",
+    							"createdAt": "2022-05-31T20:17:14.871Z",
+    							"updatedAt": "2022-05-31T20:17:16.516Z",
+    							"publishedAt": "2022-05-31T20:17:16.510Z",
+    							"PopId": "Sei lá eu"
+    						}
+    					}
+    				},
+    				"sector": {
+    					"data": {
+    						"id": 1,
+    						"attributes": {
+    							"SSID": "Secto 1",
+    							"WirelessKey": "abcb",
+    							"Frequencia": "50Htrz",
+    							"Azimuth": "4iui",
+    							"Elevacao": "9495",
+    							"ChannelWidth": null,
+    							"createdAt": "2022-05-31T20:18:37.087Z",
+    							"updatedAt": "2022-05-31T20:18:38.814Z",
+    							"publishedAt": "2022-05-31T20:18:38.807Z"
+    						}
+    					}
+    				},
+    				"produtos": {
+    					"data": [
+    						{
+    							"id": 8,
+    							"attributes": {
+    								"nome": "2M",
+    								"preco": "20.000kzs",
+    								"createdAt": "2022-05-30T20:19:27.585Z",
+    								"updatedAt": "2022-05-30T20:19:27.585Z",
+    								"publishedAt": "2022-05-30T20:19:27.578Z",
+    								"SectorComercial": {
+    									"data": {
+    										"id": 1,
+    										"attributes": {
+    											"Nome": "Sector Residencial ",
+    											"createdAt": "2022-05-04T16:14:16.663Z",
+    											"updatedAt": "2022-05-04T16:24:31.480Z",
+    											"publishedAt": "2022-05-04T16:24:31.476Z"
+    										}
+    									}
+    								}
+    							}
+    						},
+    						{
+    							"id": 9,
+    							"attributes": {
+    								"nome": "6M",
+    								"preco": "36.000Kzs",
+    								"createdAt": "2022-05-30T20:19:45.503Z",
+    								"updatedAt": "2022-05-30T20:20:03.533Z",
+    								"publishedAt": "2022-05-30T20:19:45.500Z",
+    								"SectorComercial": {
+    									"data": {
+    										"id": 1,
+    										"attributes": {
+    											"Nome": "Sector Residencial ",
+    											"createdAt": "2022-05-04T16:14:16.663Z",
+    											"updatedAt": "2022-05-04T16:24:31.480Z",
+    											"publishedAt": "2022-05-04T16:24:31.476Z"
+    										}
+    									}
+    								}
+    							}
+    						}
+    					]
+    				}
+    			}
+    		},
+    		{
+    			"id": 27,
+    			"attributes": {
+    				"dataPrevista": "2022-06-28T18:22:00.000Z",
+    				"dataChegada": "2022-06-29T16:21:52.866Z",
+    				"tempoAtraso": null,
+    				"dataSaida": "2022-06-29T16:21:59.725Z",
+    				"tempoInstalacao": null,
+    				"status": "Concluido",
+    				"caboUtp": "Blalal",
+    				"signal": "ALAKSL",
+    				"cinr": "OIORIDJK",
+    				"mastro": "IUHJKJ",
+    				"obsTecnico": "ETGEV",
+    				"obsClient": "KSDKJFKL",
+    				"createdAt": "2022-06-29T17:20:50.477Z",
+    				"updatedAt": "2022-06-30T12:31:41.876Z",
+    				"publishedAt": "2022-06-29T17:20:50.474Z",
+    				"ipAntena": "1234567",
+    				"coordenadas": "37.4219983, -122.084",
+    				"formaPagamento": "TPA",
+    				"client": {
+    					"data": {
+    						"id": 20,
+    						"attributes": {
+    							"fullName": "António João Paulo",
+    							"phone": "987123523",
+    							"email": "antoniojoaopaulo@gmail.com",
+    							"referencia": "32456-30",
+    							"status": null,
+    							"zonaReferencia": "Mutamba",
+    							"pontoReferencia": "Universidade Lusíada",
+    							"createdAt": "2022-06-29T17:20:50.431Z",
+    							"updatedAt": "2022-06-30T12:29:04.235Z",
+    							"publishedAt": "2022-06-29T17:20:50.422Z"
+    						}
+    					}
+    				},
+    				"pop": {
+    					"data": {
+    						"id": 1,
+    						"attributes": {
+    							"Nome": "TTR",
+    							"Geolocalizacao": "-8.9227264,13.3431296",
+    							"createdAt": "2022-05-31T20:17:14.871Z",
+    							"updatedAt": "2022-05-31T20:17:16.516Z",
+    							"publishedAt": "2022-05-31T20:17:16.510Z",
+    							"PopId": "Sei lá eu"
+    						}
+    					}
+    				},
+    				"sector": {
+    					"data": {
+    						"id": 1,
+    						"attributes": {
+    							"SSID": "Secto 1",
+    							"WirelessKey": "abcb",
+    							"Frequencia": "50Htrz",
+    							"Azimuth": "4iui",
+    							"Elevacao": "9495",
+    							"ChannelWidth": null,
+    							"createdAt": "2022-05-31T20:18:37.087Z",
+    							"updatedAt": "2022-05-31T20:18:38.814Z",
+    							"publishedAt": "2022-05-31T20:18:38.807Z"
+    						}
+    					}
+    				},
+    				"produtos": {
+    					"data": [
+    						{
+    							"id": 8,
+    							"attributes": {
+    								"nome": "2M",
+    								"preco": "20.000kzs",
+    								"createdAt": "2022-05-30T20:19:27.585Z",
+    								"updatedAt": "2022-05-30T20:19:27.585Z",
+    								"publishedAt": "2022-05-30T20:19:27.578Z",
+    								"SectorComercial": {
+    									"data": {
+    										"id": 1,
+    										"attributes": {
+    											"Nome": "Sector Residencial ",
+    											"createdAt": "2022-05-04T16:14:16.663Z",
+    											"updatedAt": "2022-05-04T16:24:31.480Z",
+    											"publishedAt": "2022-05-04T16:24:31.476Z"
+    										}
+    									}
+    								}
+    							}
+    						},
+    						{
+    							"id": 9,
+    							"attributes": {
+    								"nome": "6M",
+    								"preco": "36.000Kzs",
+    								"createdAt": "2022-05-30T20:19:45.503Z",
+    								"updatedAt": "2022-05-30T20:20:03.533Z",
+    								"publishedAt": "2022-05-30T20:19:45.500Z",
+    								"SectorComercial": {
+    									"data": {
+    										"id": 1,
+    										"attributes": {
+    											"Nome": "Sector Residencial ",
+    											"createdAt": "2022-05-04T16:14:16.663Z",
+    											"updatedAt": "2022-05-04T16:24:31.480Z",
+    											"publishedAt": "2022-05-04T16:24:31.476Z"
+    										}
+    									}
+    								}
+    							}
+    						}
+    					]
+    				}
+    			}
+    		}
+    	],
+    	"meta": {}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f2bf83d70c654567aad96fc328212de8
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywiaWF0IjoxNjU2NTAwMTc3LCJleHAiOjE2NTkwOTIxNzd9.QwbVPq_KoXZ2MdMfpYv00IdyJsw35X1o-qC10NgSnd8
+metaSortKey: -1645045624206.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,32 @@
+_id: req_52ccf796ad0741fbbb9a870e70f91d9f
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1664991157323
+created: 1664984770013
+url: https://speednetangola.zima.cloud/ajax/managers/6053ba3045455b073ba61b3c/subscribers
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_fb88fffaec404c7c8d7cec219f592394
+    name: ""
+    value: ""
+    description: ""
+headers:
+  - id: pair_81bdc8441ef749ac93c6f2d7b42d56d0
+    name: cookie
+    value: _csrf=CVVdlHfCkyORZ3YsCNW4sa6s; _zimaSubdomain=speednetangola.zima.cloud;
+      session=eyJhbGciOiJSUzI1NiIsImtpZCI6InRCME0yQSJ9.eyJpc3MiOiJodHRwczovL3Nlc3Npb24uZmlyZWJhc2UuZ29vZ2xlLmNvbS96aW1hLWNsb3VkLXYzIiwibmFtZSI6IjYwNTNiYTMwNDU0NTViMDczYmE2MWIzZDphZG1pbiIsIl9vcmdhbml6YXRpb24iOiI2MDUzYmEzMDQ1NDU1YjA3M2JhNjFiMzEiLCJyb2xlIjoiYWRtaW4iLCJhdWQiOiJ6aW1hLWNsb3VkLXYzIiwiYXV0aF90aW1lIjoxNjY0OTg0MzgxLCJ1c2VyX2lkIjoiNjA1M2JhMzA0NTQ1NWIwNzNiYTYxYjNkIiwic3ViIjoiNjA1M2JhMzA0NTQ1NWIwNzNiYTYxYjNkIiwiaWF0IjoxNjY0OTg0MzgyLCJleHAiOjE2NjU0MTYzODIsImVtYWlsIjoiNjA1M2JhMzA0NTQ1NWIwNzNiYTYxYjNkQDYwNTNiYTMwNDU0NTViMDczYmE2MWIzMS56aW1hLmNsb3VkIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbIjYwNTNiYTMwNDU0NTViMDczYmE2MWIzZEA2MDUzYmEzMDQ1NDU1YjA3M2JhNjFiMzEuemltYS5jbG91ZCJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.kdxcJft7oQGGG4fDxh7MWpTMBCdv3V5KnFFWn6RqpGfvgMgDhd8BbMuWUORrlhqk-UxFFwDl1Qao_P2123Oc7ibHMNAlGmLPe1xJTjAsUP9iXNGuA-WUyISzH8FbExuLP7mnCdFgiqmF-909lz67tdyPNC5h0yhfZo57DD7qo8qQV8vFPBkIupE79Rg39G9C7RDiZYGKLCH9TRFk5el4KjZ9NXe9zy8J5zR0KRDPtjIq9KpZ3oneQJNz_7xll4KE1Hlr3MJP9SezLSOVzco_ABMyoQgVjEbt9dtxhR-7vUBnCTe2Mtpfy4csNlyXDCIIzDSqaDYA_Zw3DdaPIsTAXw;
+      twk_idm_key=WoWYjEkrqHOIU_i60XN2h; TawkConnectionTime=0;
+      twk_uuid_59fd9448bb0c3f433d4c70fa={"uuid":"1.101HlQQvt8JV5DvQKrVrhlBRBLoNUfZkQg9TkPXf3WJS9SeBrpv032NovYh33vNsDEkts2Av5YNb6X5Mmf8Hd17uW5knkg7MdtKQR9pgDuOtzw7xQD8n3wPWmqcWHlur8asmCHopzw7HKs","version":3,"domain":"zima.cloud","ts":1664984387881}
+    description: ""
+authentication: {}
+metaSortKey: -1664984770013
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

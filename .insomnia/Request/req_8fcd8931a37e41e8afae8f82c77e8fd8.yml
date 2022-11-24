@@ -1,0 +1,23 @@
+_id: req_8fcd8931a37e41e8afae8f82c77e8fd8
+type: Request
+parentId: wrk_9d6e10ea02044fc8aff1dbcf1e1f30e3
+modified: 1661502937844
+created: 1633522082905
+url: http://localhost:51072/api/Agendamento/1
+name: Get Store
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  disabled: false
+metaSortKey: -1633522082905
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

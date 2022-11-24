@@ -1,0 +1,34 @@
+_id: req_52efb86c9f7846b3b750a1e52199c99b
+type: Request
+parentId: wrk_9d6e10ea02044fc8aff1dbcf1e1f30e3
+modified: 1656525291137
+created: 1641548170699
+url: https://api.wesender.co.ao/envio/12ff0bd2d14d47768494b42b476b6f4e9dedfc5d24964137be742b1484f3f747
+name: My Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	ApiKey: '12ff0bd2d14d47768494b42b476b6f4e9dedfc5d24964137be742b1484f3f747',
+    	Destino: [
+    		"944557610"
+    	],
+    	Mensagem: 'AsuacontaWeSenderencontra-seactiva.',
+    	CEspeciais: 'false'
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7aabb637369745d5ab880880bc82f0d2
+authentication: {}
+metaSortKey: -1641548170699
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

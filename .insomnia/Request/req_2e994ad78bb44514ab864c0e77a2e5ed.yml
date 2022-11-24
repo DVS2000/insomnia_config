@@ -1,0 +1,23 @@
+_id: req_2e994ad78bb44514ab864c0e77a2e5ed
+type: Request
+parentId: fld_3912b5f3f98541d086f82cc43f7b8732
+modified: 1661766038542
+created: 1661765944454
+url: https://localhost:44394/authenticated
+name: Authenticated
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IkRvcml2YWxkbyIsInJvbGUiOiJtYW5hZ2VyIiwibmJmIjoxNjYxNzY2MDE5LCJleHAiOjE2NjE3OTQ4MTksImlhdCI6MTY2MTc2NjAxOX0.RJQuhBZFVlzqoWRD2sJB3GxKtrNGPHCQuWCLU2UgCWU
+metaSortKey: -1661717718243.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

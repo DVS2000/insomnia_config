@@ -1,0 +1,40 @@
+_id: req_21a20f83a78745878b4a0aff1db43e00
+type: Request
+parentId: fld_9d132785ae2347f6b76025704c23352e
+modified: 1652959028950
+created: 1633425342887
+url: https://ib.bancobai.ao/MDW/internet-banking/api/internet/authentication?clientApp=Web&noCacheHelper=1649267236686&appVersion=v1.12.03
+name: Welcome
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+        "username": "dvs2000",
+        "password": "456654",
+        "captchaToken": "03AGdBq25FyaaIl-yY4lVXt_q4dJDMJE2sM65tNO0Tq3HBpY1mqs0zY1yaP9ioH6kC-UBauFT27Ruky6F2UO5TOEQFwFfM15hryAMkqZ_Qc3ydoNVzwxCkRpJXwGTn-LbebBi-VuzunsWrr_7F4TdTzK58G56k7sJVfTsZROovDy969b9J2OChX3dNbKTMK_-_zxkGgqO41Fpcwo4P5vXFao1aCfGZebn3i54k62BV43b3VI7Z6LVU_R40OiiJ9-_BA46U9AlwLE0aU5dMqtaZYPR88Mk9KGeHDkSWdo653uyxTXqgwrV1cAJcPUso4g2vqWUhlTRLEU1Tzm6LR8uv-j7gWBGNYpqR-Xxkk42F1edYecx5gqimYZh4I9IK_xzol36rYLPX6wITq5UQQBfiLx92TTkt2s50j_yZpbdHZONOIr7vvylT998m1K3gKvb0UOfKR6-I5-YlI53uVsK1jDkgPzQGofuRAqRxcouR46LgT4YE_in_duDP2mzRg8SxfCUjhnf5pYHtEkC9QUIWb5-PkOpqxlXxqtD7RS2Ty_ujWn7XVur6ouogUMIDk9EuxiWsFp--6emobu18au4UcbUDZZob5nHpQU9PGr6cyV09qyn8svt7wUsduxMHU4_p1XTQxC7X0czRK2rDAGd9UD-mSIsUkUdwiwLOF6hgaldVpGmQ0k4Zs-gI6XWdZvtmEQmDxItH0CG9stQEDbXMe5rl0oDjSH3x5vhBIE2dUsEh6Ex2qCgXQUWV6nvsKtF9Rq5wsD0a-Mvu50Z2p-yxG6o3JlIgmYLaCJgfEYEXvRGHb2t63lyQxEq9KtuZSrLYDIcdL4jJ2OO5HG7okbxphTGj-Si8ybHVCnnLcv6C8LOG7Xzk6krrTEqRhahAGWYehp6oy8CYaFA97BmK0CcFgiH5Fp4ODpslFPkhIRo9BRxBZSOE_DF85V-ODgLcN0gX1i51U9mEflfR9uuzxaBHlp3AArRb1dxsyi6nJ_lEIXTlv2dd-93CRJu2RPfCry78QUo3JzyasuRiX4b1QYCPL9Nr0sBIWZSt40aqoSxJWY_KFMzffctA-drOVlE84lCNzMgCP7BlfDZBAIxa_S3waGs-Yh-z5JtjdJFlGKryQVYjL-pbgGm9wFz3p5H7AkiVhaLPI0vvOID_P3crGDRs3wiBEPy9Q07hpVhK9eCUiNWwET4hNSbjDNC77nVOS_KeVVUKgNwANTNu"
+    }
+parameters: []
+headers:
+  - id: pair_3874b36460b4412ca276d3fa045970ff
+    name: Accept
+    value: application/vnd.github.v3+json
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_7e4f20aa42504bc49355b9cd8d67e08b
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: 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
+  password: ""
+metaSortKey: -1633425342887
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

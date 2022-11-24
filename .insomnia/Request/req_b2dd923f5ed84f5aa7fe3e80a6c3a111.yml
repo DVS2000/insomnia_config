@@ -1,0 +1,30 @@
+_id: req_b2dd923f5ed84f5aa7fe3e80a6c3a111
+type: Request
+parentId: fld_5439d43687dc40da8f648326f81371db
+modified: 1668514140308
+created: 1659952653278
+url: https://helio2f-contact-list-api.herokuapp.com/api/signin
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "email": "heliofila@gmail.com",
+      "password": "123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ce01df41fe4e472589c568d20bb0d245
+authentication: {}
+metaSortKey: -1659952653279
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

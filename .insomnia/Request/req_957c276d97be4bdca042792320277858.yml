@@ -1,0 +1,21 @@
+_id: req_957c276d97be4bdca042792320277858
+type: Request
+parentId: wrk_9d6e10ea02044fc8aff1dbcf1e1f30e3
+modified: 1637087323852
+created: 1637087297130
+url: localhost:3333/
+name: Teste - ByCoders
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1637087297130
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

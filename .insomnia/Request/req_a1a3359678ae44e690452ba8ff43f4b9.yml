@@ -1,0 +1,37 @@
+_id: req_a1a3359678ae44e690452ba8ff43f4b9
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1668428537722
+created: 1646206134516
+url: http://localhost:1337/api/instalacaos/7
+name: Get Instalacao
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"data": {
+    		"dataPrevista": "2022-01-21T08:00:00.000Z",
+    		"client": 3,
+    		"equipa": {
+    			"id": "8"
+    		}
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5477faee9039456da38235676c9ffe67
+authentication:
+  type: bearer
+  token: "{{ _.TOKEN }}"
+metaSortKey: -1646206134516
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

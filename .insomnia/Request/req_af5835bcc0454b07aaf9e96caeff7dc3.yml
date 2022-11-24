@@ -1,0 +1,28 @@
+_id: req_af5835bcc0454b07aaf9e96caeff7dc3
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1657057611033
+created: 1651680930941
+url: http://localhost:1337/api/sector-comercials/8
+name: Get Sector
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f2bf83d70c654567aad96fc328212de8
+authentication:
+  type: bearer
+  token: "{{ _.TOKEN }}"
+metaSortKey: -1644372294314.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

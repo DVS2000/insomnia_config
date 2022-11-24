@@ -1,0 +1,32 @@
+_id: req_defd6fa4ae5c458ba7a8308434c243aa
+type: Request
+parentId: wrk_9d6e10ea02044fc8aff1dbcf1e1f30e3
+modified: 1664984763106
+created: 1643968296380
+url: localhost:3000/
+name: GetPlanos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"phone": "923218124",
+    	"password": "456654",
+    	"plan": 4
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_47fbb871b9d64cff98e85f7e9bb6f3e3
+    disabled: true
+authentication: {}
+metaSortKey: -1643968296380
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

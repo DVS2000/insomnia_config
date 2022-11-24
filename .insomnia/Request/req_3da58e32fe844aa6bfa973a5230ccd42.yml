@@ -1,0 +1,35 @@
+_id: req_3da58e32fe844aa6bfa973a5230ccd42
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1661793726459
+created: 1652094191224
+url: http://localhost:1337/api/instalacaos/16
+name: Add Productos  Instalacao
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"data": {
+    		"produtos": [
+    			2
+    		]
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_88b8ffc98e7f41a9b106114efd5a095e
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OCwiaWF0IjoxNjUyMDk0Mjk4LCJleHAiOjE2NTQ2ODYyOTh9.zKeeWgitAjLLrrvapRo7_5tD7AC1jms9TIp5jg-ooI4
+metaSortKey: -1646143747653.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

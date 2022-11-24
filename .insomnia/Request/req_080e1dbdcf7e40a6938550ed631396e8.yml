@@ -1,0 +1,38 @@
+_id: req_080e1dbdcf7e40a6938550ed631396e8
+type: Request
+parentId: fld_cd25da13aa9941cb86ba21d8925c3ef4
+modified: 1668428540927
+created: 1653340153323
+url: https://api.cinemax.co.ao/graphql
+name: Get Me Strapi
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"operationName": "MOVIE_SESSIONS_QUERY",
+    	"variables": {
+    		"movieId": "386",
+    		"cinemaId": "5",
+    		"movieSessionCategory": "em-exibicao",
+    		"allEntries": false
+    	},
+    	"query": "query MOVIE_SESSIONS_QUERY($movieId: ID!, $cinemaId: ID!, $movieSessionCategory: String, $allEntries: Boolean) {\n  movieSessions(movieId: $movieId, cinemaId: $cinemaId, movieSessionCategory: $movieSessionCategory) {\n    movieTheater {\n      id\n      name\n      __typename\n    }\n    experiences {\n      id\n      name\n      __typename\n    }\n    entries(all: $allEntries) {\n      id\n      startsIn\n      __typename\n    }\n    __typename\n  }\n}\n"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ac0e78e72fdb4d3f8d90046525c24b37
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjUzMzQwMTI3LCJleHAiOjE2NTU5MzIxMjd9.8J3OnCSfaOy9cwf_8Thkzl1rZ731h2URHlx7dgpwos
+metaSortKey: -1653340153323
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

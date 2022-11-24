@@ -1,0 +1,28 @@
+_id: req_18424ea0824a466284fea5f804aaf8e3
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1654002270600
+created: 1651504657662
+url: http://localhost:1337/api/team-leaders/7
+name: Get Equipa pelo Team Leader
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f2bf83d70c654567aad96fc328212de8
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywiaWF0IjoxNjU0MDAxNzAzLCJleHAiOjE2NTY1OTM3MDN9.lVTQWmZk2pKTsVcqu2QQ0mh_WEbDAEpn3QnF47tb2to
+metaSortKey: -1644506960293.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

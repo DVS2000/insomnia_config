@@ -1,0 +1,34 @@
+_id: req_e2548f8a5faa4172865b19c8ccd43300
+type: Request
+parentId: fld_4e357a990fe142058bd32426ff4c530b
+modified: 1668514135152
+created: 1661702011353
+url: https://open-api.tiktok.com/user/info/
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >
+    {
+    	"access_token": "WNc36EwTXgqPJLMiDAW7bU-61LVqros4yM65DtflKldf4qDkSS-OVIcj2LYoz7JbQE1Pzn8ZhnRVPef0yu0wqL42SVhy_16PIvqAuYZBxSLO74Wsy8nWfk-3EI3Aklbg77wYA6Im459KPQ==",
+    	"fields": [
+    		"open_id",
+    		"union_id",
+    		"avatar_url"
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a1f32f7be71b465ca1aec8d49b9dc512
+authentication: {}
+metaSortKey: -1661702011353
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,13 @@
+_id: fld_29b13948b0b14ad6a8b54b820c6ecfed
+type: RequestGroup
+parentId: wrk_9d6e10ea02044fc8aff1dbcf1e1f30e3
+modified: 1654027839041
+created: 1646122941769
+name: SpeedNet
+description: ""
+environment:
+  TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywiaWF0IjoxNjU0MDI3Nzk2LCJleHAiOjE2NTY2MTk3OTZ9.qT7gPOgTeIJU-OSSmOa7r9BL5J2TIhSpCsJ8g6Y7RK8
+environmentPropertyOrder:
+  "&":
+    - TOKEN
+metaSortKey: -1646122941769

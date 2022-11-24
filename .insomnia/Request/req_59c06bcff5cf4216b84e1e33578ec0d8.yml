@@ -1,0 +1,30 @@
+_id: req_59c06bcff5cf4216b84e1e33578ec0d8
+type: Request
+parentId: fld_9e347b2c412144cca498de2147fb64f5
+modified: 1668428572979
+created: 1632932452724
+url: localhost:3333/auth/
+name: Cotação
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+    	"phone": "944557610",
+    	"password": "Dorivaldo2"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fde5f5da507f4c75adb303e9b57a49eb
+authentication: {}
+metaSortKey: -1632932452725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

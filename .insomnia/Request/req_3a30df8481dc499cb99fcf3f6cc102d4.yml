@@ -1,0 +1,30 @@
+_id: req_3a30df8481dc499cb99fcf3f6cc102d4
+type: Request
+parentId: fld_3912b5f3f98541d086f82cc43f7b8732
+modified: 1668514127704
+created: 1661764838915
+url: https://localhost:44394/v1/login
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Username": "Dorivaldo",
+    	"Password": "Dorivaldo"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b29042f665a74fabb800ce5d2147985d
+authentication: {}
+metaSortKey: -1661764838915
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

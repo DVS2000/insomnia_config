@@ -1,0 +1,28 @@
+_id: req_8c824bc65c2e45b49819f0de2074901f
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1656953989104
+created: 1651576432863
+url: http://localhost:1337/api/avaliacaos/2
+name: Get Técnicos By Equipa
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f2bf83d70c654567aad96fc328212de8
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NywiaWF0IjoxNjU2OTUwOTI1LCJleHAiOjE2NTk1NDI5MjV9.1IpctXG3e6xlRS653A8RlX1qSyPcBJXR-NNx9z_AaKw
+metaSortKey: -1644237628336.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

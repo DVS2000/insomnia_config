@@ -1,0 +1,32 @@
+_id: req_704b7342201244d2b2ff3f050fbc1bd6
+type: Request
+parentId: wrk_9d6e10ea02044fc8aff1dbcf1e1f30e3
+modified: 1668428565082
+created: 1633523540606
+url: http://102.64.60.30:3333/api/v1/unidades/
+name: Unidades
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Giga",
+    	"abreviacao": "Gb"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_57df13c8c9424bfe9e96fdc56bbfa894
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjgwNTc3ODQ0LWE0MDktNDBhOC05YWYwLTU4Yzc0YmEyMDA2NSIsInN0YXR1cyI6dHJ1ZSwidHlwZSI6IjZkMzM2YzU2LTZjMDktNDJiZS04OTc5LTk0MGRjM2M2YjlmNyIsImlhdCI6MTYzMzUyMTk3MCwiZXhwIjoxNjMzNjA4MzcwfQ.My8OaIrtVPTH7ubnqHnI2MTWNUpgDsgMh6q9RmCRGB8
+metaSortKey: -1633523540606
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_bcc96d2556c74eab8521f0e08686bc04
+type: Request
+parentId: fld_cd25da13aa9941cb86ba21d8925c3ef4
+modified: 1641578641839
+created: 1641576979204
+url: " {{ _.base_url }}/api/categories/"
+name: Get POsts
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1641576979255
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

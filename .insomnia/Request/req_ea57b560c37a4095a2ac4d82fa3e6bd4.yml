@@ -1,0 +1,42 @@
+_id: req_ea57b560c37a4095a2ac4d82fa3e6bd4
+type: Request
+parentId: fld_854872d0cfb54de88455c457a4e31348
+modified: 1669114816786
+created: 1661772939194
+url: https://api.proxypay.co.ao/payments
+name: New Request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_b8e1c68f05c54c1ab628baa5ea661b59
+    name: limit
+    value: "80"
+    description: ""
+  - id: pair_502d3c4cc7914fcdaa556db4d1ea16eb
+    name: ""
+    value: ""
+    description: ""
+headers:
+  - id: pair_d390d5ddeacd43c8841f0cd48abdf180
+    name: Authorization
+    value: Token m310jqnj1scqggpvetjaf2o46tn9nf0r
+    description: ""
+  - id: pair_1b2a4501d8ca45aab5e1dfbdf6c4e05c
+    name: Accept
+    value: application/vnd.proxypay.v1+json
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_b4e5ecbae1e7479387e3c06181c1d34b
+authentication: {}
+metaSortKey: -1661772939194
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

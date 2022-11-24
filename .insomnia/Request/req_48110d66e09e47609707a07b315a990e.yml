@@ -1,0 +1,23 @@
+_id: req_48110d66e09e47609707a07b315a990e
+type: Request
+parentId: fld_3912b5f3f98541d086f82cc43f7b8732
+modified: 1661772939877
+created: 1661766136798
+url: https://localhost:44394/manager
+name: Manager
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IkRvcml2YWxkbyIsInJvbGUiOiJtYW5hZ2VyIiwibmJmIjoxNjYxNzY2MTg4LCJleHAiOjE2NjE3OTQ5ODgsImlhdCI6MTY2MTc2NjE4OH0.rAqs6cWVXZjhxB0Pg4CuZcyMq7ylGFgajSKTOh25oSM
+metaSortKey: -1661705938075.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

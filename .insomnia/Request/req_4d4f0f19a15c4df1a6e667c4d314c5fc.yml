@@ -1,0 +1,23 @@
+_id: req_4d4f0f19a15c4df1a6e667c4d314c5fc
+type: Request
+parentId: fld_3912b5f3f98541d086f82cc43f7b8732
+modified: 1661766075935
+created: 1661766069113
+url: https://localhost:44394/employee
+name: Employee
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IkRvcml2YWxkbyIsInJvbGUiOiJtYW5hZ2VyIiwibmJmIjoxNjYxNzY2MDE5LCJleHAiOjE2NjE3OTQ4MTksImlhdCI6MTY2MTc2NjAxOX0.RJQuhBZFVlzqoWRD2sJB3GxKtrNGPHCQuWCLU2UgCWU
+metaSortKey: -1661709864798.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

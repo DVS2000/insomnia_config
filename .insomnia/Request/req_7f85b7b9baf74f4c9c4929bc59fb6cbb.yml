@@ -1,0 +1,35 @@
+_id: req_7f85b7b9baf74f4c9c4929bc59fb6cbb
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1661793734909
+created: 1651591773163
+url: http://localhost:1337/api/avaliacaos/2
+name: Get and Post Avaliação
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"data": {
+    		"texto": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standardg versions of Lorem Ipsum.",
+    		"teamleader": "1",
+    		"tecnico": "3"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f2bf83d70c654567aad96fc328212de8
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1644102962358.3125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

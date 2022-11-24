@@ -1,0 +1,41 @@
+_id: req_6b60999338b548f787eb49f77371e4c6
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1664988443019
+created: 1651830991875
+url: http://localhost:1337/api/clients/
+name: Get Clients And Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"data": {
+    		"fullName": "Insomina Edna Assucena",
+    		"phone": "94455761",
+    		"email": "Insomina.santos@bycoders.com",
+    		"status": "Activado",
+    		"zonaReferencia": "Rocha",
+    		"pontoReferencia": "Hospital da Samba",
+    		"createdAt": "2022-01-20T19:43:49.731Z",
+    		"updatedAt": "2022-01-20T19:54:23.493Z",
+    		"publishedAt": "2022-01-20T19:54:23.490Z"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f2bf83d70c654567aad96fc328212de8
+authentication:
+  type: bearer
+  token: "{{ _.TOKEN }}"
+metaSortKey: -1644035629369.1562
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

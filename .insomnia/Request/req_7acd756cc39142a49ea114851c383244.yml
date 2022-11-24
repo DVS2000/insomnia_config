@@ -1,0 +1,45 @@
+_id: req_7acd756cc39142a49ea114851c383244
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1657533849646
+created: 1650113029956
+url: http://102.64.60.26:1337/api/produtos/
+name: Put Instalacao
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"data": {
+    		"dataChegada": "2014-02-15T08:57:47.812",
+    		"tempoAtraso": "00:30:00.000",
+    		"dataSaida": "2014-02-15T08:57:47.812",
+    		"tempoInstalacao": "00:07:00.000",
+    		"popConectado": "TTR",
+    		"sectorConectado": "Sector_1",
+    		"caboUtp": "SW",
+    		"signal": "...",
+    		"cinr": "65",
+    		"obsTecnico": "ceecgeehehrbtvtvt",
+    		"obsClient": "frvrvrbbtbfvtvtvrv",
+    		"ipAntena": "192.168.3.6",
+    		"coordenadas": "-8.8520093, 13.2112065"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_88b8ffc98e7f41a9b106114efd5a095e
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTMsImlhdCI6MTY1NzEyNjk4OSwiZXhwIjoxNjU5NzE4OTg5fQ.1Ey8z4bDrc8pRdzonPmeSg7jIhRqHXNRmNvwiEtAV1Y
+metaSortKey: -1646164543274.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_022f1c67b51f4dafa66f7f30e88bb07a
+type: Request
+parentId: fld_5439d43687dc40da8f648326f81371db
+modified: 1662746945510
+created: 1659952747551
+url: https://pokeapi.co/api/v2/pokemon/charmeleonx/
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmNlYTkyN2VkNWU5MjA1N2ZmYmExM2QiLCJuYW1lIjoiSGVsaW8gRnJhZ2FvIEZpbGEiLCJlbWFpbCI6ImhlbGlvZmlsYUBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE2NTk5NTI3MzV9.RDe3oQoRWfjPbKZddgbO5V2mzpuCpKLatoVj0UE6tb4
+metaSortKey: -1659952747551
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

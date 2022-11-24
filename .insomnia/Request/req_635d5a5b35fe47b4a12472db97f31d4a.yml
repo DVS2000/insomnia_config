@@ -1,0 +1,51 @@
+_id: req_635d5a5b35fe47b4a12472db97f31d4a
+type: Request
+parentId: fld_cd25da13aa9941cb86ba21d8925c3ef4
+modified: 1668428545474
+created: 1653380912940
+url: http://localhost:1337/api/products?populate=image
+name: Create Product
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"data": {
+    		"partNumber": "124319876",
+    		"availability": 3,
+    		"description": "Alguma coisa qualquer X547, mas outra coisa qualquer bla X912 V495 continuando I1030 X49834 REC-TU",
+    		"fitsPacking": "6.000",
+    		"primaryMaterial": "13 CR",
+    		"nace": true,
+    		"qcp": "Standard",
+    		"productFamily": "Completion Tubular Accessories",
+    		"partInfo": "Assembly",
+    		"gemsStatus": "Released (Rev: AB)",
+    		"security": "Private",
+    		"uom": "EA",
+    		"iskuNumber": "N/A",
+    		"minIsku": "N/A",
+    		"fileCode": "AGH-REDA-C-ES-380",
+    		"color": "C42B1C",
+    		"imcs": "Inventory",
+    		"ntType": "Not NT",
+    		"classification": "Submersible Pumps / Pumb Intakes & Gas Devices / AGH / D20 - 60"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9ce6f03b3237420899dcbf3b464afe75
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1649773143919.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

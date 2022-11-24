@@ -1,0 +1,30 @@
+_id: req_2583324e080040a9ba7a792650db73ff
+type: Request
+parentId: fld_29b13948b0b14ad6a8b54b820c6ecfed
+modified: 1657126988448
+created: 1646122952032
+url: http://102.64.60.26:1337/api/auth/local
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "identifier": "dionisio.carvalho@speednet.co.ao",
+        "password": "12345678"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f2bf83d70c654567aad96fc328212de8
+authentication: {}
+metaSortKey: -1646122952033
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
